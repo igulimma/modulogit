@@ -1,3 +1,1 @@
-Meu primeiro sistema no GIT
-
-Ateração no readme para descrever melhor meu sistema.
+Bomba Patch 2024 Tropa do Bruxo
